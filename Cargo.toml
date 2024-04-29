@@ -1,0 +1,9 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "terminal",
+    "proto",
+    "proto_cross_test",
+]
